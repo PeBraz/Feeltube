@@ -5,8 +5,7 @@
 //http://www.reddit.com/r/dailyprogrammer/
 //comments/2nauiv/20141124_challenge_190_easy_webscraping_sentiments
 //
-//regex limitations (should change to htmlparser2)
-
+//regex limitations (use htmlparser)
 
 
 var request = require('request');
